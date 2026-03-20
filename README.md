@@ -57,8 +57,8 @@ The project focuses on **modern mobile UX principles**.
 ---
 
 ### 📸 App Preview
-*(Developer note: Replace this text with a link to your app's screenshot, just like you did in Tubby Cake!)*
-`[![](/Cristian-OrtizU/LanzarDado/raw/master/Preview/screenshot.png)](/Cristian-OrtizU/LanzarDado/blob/master/Preview/screenshot.png)`
+`<img width="178" height="148" alt="1" src="https://github.com/user-attachments/assets/75ee2815-ae31-4bae-938a-f8ec2775c83a" />
+`
 
 ---
 
@@ -127,8 +127,7 @@ El proyecto se enfoca en **principios modernos de UX móvil**.
 ---
 
 ### 📸 Vista Previa de la App
-*(Nota para el desarrollador: Reemplaza este texto con el enlace a tu captura de pantalla, igual que hiciste en la carpeta Preview de Tubby Cake)*
-`[![](/Cristian-OrtizU/LanzarDado/raw/master/Preview/screenshot.png)](/Cristian-OrtizU/LanzarDado/blob/master/Preview/screenshot.png)`
+`<img width="178" height="148" alt="1" src="https://github.com/user-attachments/assets/75ee2815-ae31-4bae-938a-f8ec2775c83a" />`
 
 ---
 
