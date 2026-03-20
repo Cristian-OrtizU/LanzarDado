@@ -57,8 +57,8 @@ The project focuses on **modern mobile UX principles**.
 ---
 
 ### 📸 App Preview
-`<img width="178" height="148" alt="1" src="https://github.com/user-attachments/assets/75ee2815-ae31-4bae-938a-f8ec2775c83a" />
-`
+<img width="178" height="148" alt="1" src="https://github.com/user-attachments/assets/75ee2815-ae31-4bae-938a-f8ec2775c83a" />
+
 
 ---
 
@@ -127,7 +127,7 @@ El proyecto se enfoca en **principios modernos de UX móvil**.
 ---
 
 ### 📸 Vista Previa de la App
-`<img width="178" height="148" alt="1" src="https://github.com/user-attachments/assets/75ee2815-ae31-4bae-938a-f8ec2775c83a" />`
+<img width="178" height="148" alt="1" src="https://github.com/user-attachments/assets/75ee2815-ae31-4bae-938a-f8ec2775c83a" />
 
 ---
 
